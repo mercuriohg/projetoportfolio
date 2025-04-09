@@ -34,7 +34,7 @@ nav>a:hover{
 .divimagem {
     width: 200px; /* Ajuste o tamanho conforme necessário */
     margin-left: 20px;
-    border-radius: 50%;
+    border-radius: 20%;
     border: 1px solid gainsboro;
 }
 
