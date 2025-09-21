@@ -96,11 +96,14 @@ ul{
 li{
     margin: 9px;
 }
-#divides .ides{
-    margin: 5px;
+
+.ides{
+    margin: 9px;
+    text-align: center;
 }
 .tecs{
     width: 200px;
+    height: 200px;
     text-align: center;
     margin: auto;
 }
