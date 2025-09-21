@@ -1,5 +1,6 @@
 *{
     margin: 0;
+    padding: 0;
 }
 body{
     color: rgb(255, 255, 255);
@@ -23,7 +24,7 @@ nav>a:hover{
 .container {
     display: flex;
     margin-top: 100px;
-    align-items: center; /* Alinha verticalmente */
+    align-items: center; 
 }
 .divtexto {
     flex: 1; 
@@ -35,7 +36,7 @@ nav>a:hover{
     width: 90px;
 }
 .divimagem {
-    width: 200px; /* Ajuste o tamanho conforme necessário */
+    width: 200px; 
     margin-left: 20px;
     border-radius: 30%;
 }
@@ -107,17 +108,17 @@ li{
     text-align: center;
     margin: auto;
 }
-img{
+.animacao{
     transition: all 0.3s ease;
 }
-img:hover{
+.animacao:hover{
   transform: translateY(-5px);
   box-shadow: 0 10px 20px rgba(0,0,0,0.2);
 }
 .redessociais{
     align-items: center;
 }
-@media(max-width: 660px){
+@media(max-width: 560px){
     .divtexto{
         margin-bottom: 20px;
         width: 400px;
