@@ -47,6 +47,10 @@ h2{
     text-align: center;
     margin: 20px;
 }
+h3{
+    color: black;
+    margin: 8px;
+}
 p{
     color: rgb(0, 0, 0);
 }
