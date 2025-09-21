@@ -141,6 +141,10 @@ li{
         text-align: center;
         justify-content: center;
     }
+    .redessociais{
+        display: flex;
+        flex-wrap: wrap;
+    }
     ul{
         display: grid;
         grid-template-columns: 1fr 1fr;
