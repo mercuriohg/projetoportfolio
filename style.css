@@ -96,6 +96,14 @@ ul{
 li{
     margin: 9px;
 }
+#divides .ides{
+    margin: 5px;
+}
+.tecs{
+    width: 200px;
+    text-align: center;
+    margin: auto;
+}
 img{
     transition: all 0.3s ease;
 }
