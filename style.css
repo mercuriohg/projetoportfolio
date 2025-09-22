@@ -152,4 +152,8 @@ li{
         display: grid;
         grid-template-columns: 1fr 1fr;
     }
+    #tecnologias{
+        display: grid;
+        grid-template-columns: 1fr;
+    }
 }
