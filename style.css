@@ -150,7 +150,7 @@ li{
     }
     ul{
         display: grid;
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr;
     }
     #tecnologias{
         display: grid;
