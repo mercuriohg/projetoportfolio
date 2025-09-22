@@ -114,6 +114,10 @@ li{
     text-align: center;
     margin: auto;
 }
+#tecnologias{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
 .animacao{
     transition: all 0.3s ease;
 }
