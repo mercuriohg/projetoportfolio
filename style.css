@@ -116,6 +116,7 @@ li{
 }
 #tecnologias{
     display: grid;
+    margin: 9px;
     grid-template-columns: 1fr 1fr;
 }
 .animacao{
