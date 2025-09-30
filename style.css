@@ -138,6 +138,10 @@ li{
     align-items: center;
 }
 @media(max-width: 560px){
+    nav>h1{
+        margin: auto;
+    }
+
     .divtexto{
         margin-bottom: 20px;
         width: 400px;
