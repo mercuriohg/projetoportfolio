@@ -8,12 +8,20 @@ body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
  
 }
-header{
+nav h1{
+  text-align: center;
+  margin-right: 30%;
+}
+nav{
+    display: flex;
+    flex-wrap: wrap;
     background-color: rgb(13, 16, 168);
     position: sticky;
     top: 0;
+    padding: 20px;
 }
 h1{
+    text-align: start;
     padding: 8px;
 }
 header{
